@@ -172,7 +172,7 @@ void Notebook::show(int page){
 //     test.write(2,8,4,Direction::Vertical,"HOMO");
 //     //cout << test.read(2,4,5,Direction::Horizontal,5) << endl;
 //     //printf("---------------------------------------------\n");
-//     test.write(2,1,0,Direction::Horizontal, "GFDGDFGJDFGJKFDHGFDUGFDJKGFDLGJFDAAIGLHFDAGUJADFJSDABFDSFOSDJGUJFDHGFDGJFSD;LAGISFDOGFDIGHFDGJDFGFDA");
+//     test.write(2,1,0,Direction::Horizontal, "GFGDFGJDFGJKFDHGFDUGFDJKGFDLGJFDAAIGLHFDAGUJADFJSDABFDSFOSDJGUJFDHGFDGJFSD;LAGISFDOGFDIGHFDGJDFGFDA");
 //     test.show(2);
 //     return 0;
 // }

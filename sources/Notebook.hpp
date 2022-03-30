@@ -21,7 +21,7 @@ public:
     Notebook(){
         row_len=99;
     }
-    ~Notebook(){}
+    ~Notebook(){};
     /**
      * @brief A function that write the text the user want, in the page he wish to write at the row and column he want, in the direction he want.
      * 
